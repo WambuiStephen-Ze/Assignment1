@@ -44,7 +44,7 @@ input{
 #button{
     font-size: 48px;
     color: rosybrown;
-    background-color: #53534a;
+    background-color: #ff7247;
 }
 #button:hover{
     color:purple;
