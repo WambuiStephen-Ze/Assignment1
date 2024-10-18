@@ -32,6 +32,15 @@ p{
 .br{
     color: maroon;
 }
+label{
+    color: red;
+    font-size:18px;
+
+}
+input{
+    color: red;
+
+}
 #button{
     font-size: 48px;
     color: rosybrown;
